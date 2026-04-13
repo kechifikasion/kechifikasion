@@ -15,26 +15,26 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 
 ---
 
-### Bildiğim Şeyler
+### Deneyimler
 
-**Güçlü olduğum taraf:**
+**Güçlü olduğum taraflar:**
 - Yapısal kablolama, sonlandırma, fiziksel montaj
 - TCP/IP · DNS/DHCP temelleri
 - Linux kullanımı (ayrı bir makinede aktif olarak kullanıyorum)
 
-**Aşina olduğum:**
+**Aşina olduğum taraflar:**
 - Switch konfigürasyonu — VLAN ve Trunking'i lab ortamında temel düzeyde kurdum, detaylara hâkim değilim
 - n8n — denedim ve temel seviyede kullandım, aktif olarak kullanmıyorum
 - Adobe Illustrator · Photoshop · Premiere Pro
 
-**Öğrenme aşamasında:**
+**Öğrenme aşamasında taraflar:**
 - TrueNAS · Docker
 - Firewall yönetimi
 - Switch konfigürasyonlarının ileri seviyesi
 
 ---
 
-### Üzerinde Çalıştığım Şeyler
+### Aktif Uğraşlarım
 
 🏠 **Homelab** — Ağ altyapısı %90 tamamlandı. AP ve firewall cihazı eksik. NAS kurulumu (TrueNAS) bütçe hazır olunca başlayacak.
 

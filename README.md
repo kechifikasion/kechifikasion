@@ -45,14 +45,14 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 ---
 
 ### Hobiler & İlgi Alanları
+---
 
-```
 ✈️  Havacılık & İHA       İHA-1 ticari pilot ehliyetim var, havacılık alanını takip ediyorum
 🛡️  Savunma Sanayii       İHA/SİHA platformları ve sektörü ilgiyle izliyorum
 🎮  Gaming & Donanım      PC build, donanım, oyun
 🖨️  3D Baskı              Teknik parça üretimi — ekipman yenilenince devam edecek
 🕹️  Oyun Geliştirme       1 yıl Unity stajı (saha deneyimim bu alandaydı) + hobi olarak UE5 — mesleki olarak bıraktım, dönersem hobi olarak
-```
+---
 
 ---
 

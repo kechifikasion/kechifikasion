@@ -45,7 +45,6 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 ---
 
 ### Hobiler & İlgi Alanları
----
 
 ✈️  Havacılık & İHA       İHA-1 ticari pilot ehliyetim var, havacılık alanını takip ediyorum
 🛡️  Savunma Sanayii       İHA/SİHA platformları ve sektörü ilgiyle izliyorum

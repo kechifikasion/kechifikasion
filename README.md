@@ -34,7 +34,7 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 
 ### Aktif Uğraşlarım
 
-🏠 **Homelab** — Gateway, AP, Switch ve birkaç ekstra donanım kuruldu ama server kurulumu bütçe hazır olunca başlayacak.
+🏠 **Homelab** — Gateway, AP, Switch ve birkaç ekstra donanım kuruldu ama server kurulumu bütçe hazır olunca başlayacak (Gateway içerisinde olan firewall'ı kullanıyorum)
 
 🐧 **Linux** — Ana makinemde CachyOS kullanmaktayım, dualboot ile kırılmış Win11 bulunmakta (Bir takım online oyunlar için)
 
@@ -52,7 +52,7 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 
 🖨️ **3D Baskı** — Hobi olarak teknik parça üretimi. Ekipman yenilenince devam edecek.
 
-🕹️ **Oyun Geliştirme** — 1 yıl Unity stajı + hobi olarak UE5 ile ilgiledim.
+🕹️ **Oyun Geliştirme** — 1 yıl Unity stajı + hobi olarak UE5 ile ilgilendim.
 
 ---
 
@@ -61,6 +61,10 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 🎓 **Bilişim Güvenliği Teknolojisi** — Ostim Teknik Üniversitesi *(2022 – 2024)*
 
 ---
+---
+### Projeler
+📁 **[Link-Tree]([https://github.com/kechifikasion/REPO-ADI](https://github.com/selimunsel/link-tree-source))** — Kişisel bağlantı sayfası · [tree.aselimunsel.com](https://tree.aselimunsel.com)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kechifikasion&style=flat-square&color=6366f1" />

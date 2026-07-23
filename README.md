@@ -61,10 +61,12 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir IT elemanı
 🎓 **Bilişim Güvenliği Teknolojisi** — Ostim Teknik Üniversitesi *(2022 – 2024)*
 
 ---
----
+
 ### Projeler
 📁 **[Link-Tree](https://github.com/selimunsel/link-tree-source)** — Kişisel bağlantı sayfası · [tree.aselimunsel.com](https://tree.aselimunsel.com)
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kechifikasion&style=flat-square&color=6366f1" />
+  <img src="https://komarev.com/ghpvc/?username=selimunsel&style=flat-square&color=6366f1" />
 </p>

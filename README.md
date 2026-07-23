@@ -18,19 +18,19 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 ### Deneyimler
 
 **Güçlü olduğum taraflar:**
-- Yapısal kablolama, sonlandırma, fiziksel montaj
-- TCP/IP · DNS/DHCP temelleri
-- Linux kullanımı (ayrı bir makinede aktif olarak kullanıyorum)
+- Yapısal kablolama, sonlandırma, fiziksel montaj.
+- VLAN ve Trunking -- homelab ortamında kurulumlar yaptım.
+- Switch konfigürasyonları (Genellikle GUI ile)
 
 **Aşina olduğum taraflar:**
-- Switch konfigürasyonu — VLAN ve Trunking'i lab ortamında temel düzeyde kurdum, detaylara hâkim değilim
-- n8n — denedim ve temel seviyede kullandım, aktif olarak kullanmıyorum
-- Adobe Illustrator · Photoshop · Premiere Pro
+- Linux kullanımı.
+- n8n ile otomasyonlar.
+- Adobe Illustrator · Photoshop · Premiere Pro.
 
 **Öğrenme aşamasında taraflar:**
-- TrueNAS · Docker
-- Firewall yönetimi
-- Switch konfigürasyonlarının ileri seviyesi
+- Docker yönetimi.
+- Firewall yönetimi.
+- Switch konfigürasyonlarının ileri seviyesi.
 
 ---
 
@@ -38,9 +38,9 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 
 🏠 **Homelab** — Ağ altyapısı %90 tamamlandı. AP ve firewall cihazı eksik. NAS kurulumu (TrueNAS) bütçe hazır olunca başlayacak.
 
-🐧 **Linux** — Ayrı bir makinede aktif olarak kullanıyorum. Ana makinede oyun için Windows kalıyor, onun dışında Linux tercihim.
+🐧 **Linux** — Ana makinemde CachyOS kullanmaktayım, dualboot ile kırılmış Win11 bulunmakta (Bir takım online oyunlar için)
 
-🌐 **VPS** — Hostinger'da bir KVM2 var, boşta bekliyor. n8n gibi araçlar için değerlendirebilirim.
+🌐 **VPS** — N8N ve Discord bot için VPS kullanıyorum, yakın zamanda 100+ modlu Minecraft server'ı açmak gibi bir düşüncem var.
 
 ---
 
@@ -48,9 +48,9 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 
 ✈️ **Havacılık & İHA** — İHA-1 ticari pilot ehliyetim var, havacılık alanını genel olarak takip ediyorum.
 
-🛡️ **Savunma Sanayii** — İHA/SİHA platformları ve sektörü ilgiyle izliyorum.
+🛡️ **Savunma Sanayii** — İnsansız araç platformları ve Silah sektörünü ilgiyle izliyorum.
 
-🎮 **Gaming & Donanım** — PC build, donanım, oyun.
+🎮 **Gaming & Donanım** — PC build, PC bakımı ve video oyunları.
 
 🖨️ **3D Baskı** — Hobi olarak teknik parça üretimi. Ekipman yenilenince devam edecek.
 

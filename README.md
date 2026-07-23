@@ -1,15 +1,15 @@
 <h1 align="center">Ahmet Selim Ünsel</h1>
-<h3 align="center">Ağ Teknikeri · Ankara</h3>
+<h3 align="center">Ağ Sistemleri · Ankara</h3>
 
 <p align="center">
-  <a href="https://tree.urbexhawks.com"><img src="https://img.shields.io/badge/Bağlantılar-urbexhawks-1a1a2e?style=flat-square&logo=linktree&logoColor=white" /></a>
+  <a href="https://tree.aselimunsel.com"><img src="https://img.shields.io/badge/Bağlantılar-aselimunsel-1a1a2e?style=flat-square&logo=linktree&logoColor=white" /></a>
 </p>
 
 ---
 
 ### Hakkımda
 
-Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim. Saha deneyimim oyun geliştirme alanında başladı ancak mesleki olarak ağ altyapılarına yöneldim. Kablolama, sonlandırma, montaj ve temel Switch konfigürasyonları üzerine homelab ortamımda pratik yapıyorum.
+Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir IT elemanıyım. Saha deneyimim oyun geliştirme alanında başladı ancak mesleki olarak ağ altyapılarına yöneldim. Kablolama, sonlandırma, montaj ve temel Switch konfigürasyonları üzerine homelab ortamımda pratik yapıyorum.
 
 ---
 
@@ -63,8 +63,7 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 ---
 ---
 ### Projeler
-📁 **[Link-Tree]([https://github.com/kechifikasion/REPO-ADI](https://github.com/selimunsel/link-tree-source))** — Kişisel bağlantı sayfası · [tree.aselimunsel.com](https://tree.aselimunsel.com)
-
+📁 **[Link-Tree](https://github.com/selimunsel/link-tree-source)** — Kişisel bağlantı sayfası · [tree.aselimunsel.com](https://tree.aselimunsel.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kechifikasion&style=flat-square&color=6366f1" />

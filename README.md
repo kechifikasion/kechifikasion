@@ -9,9 +9,7 @@
 
 ### Hakkımda
 
-Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim. Saha deneyimim oyun geliştirme alanında başladı ancak mesleki olarak ağ altyapılarına yöneldim. Kablolama, sonlandırma, montaj ve temel Switch konfigürasyonları üzerine homelab ortamımda pratik yapıyorum. Öğrenmeye devam ediyorum.
-
-Şu anda Anadolu Üniversitesi'nde Coğrafi Bilgi Sistemleri okuyorum.
+Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim. Saha deneyimim oyun geliştirme alanında başladı ancak mesleki olarak ağ altyapılarına yöneldim. Kablolama, sonlandırma, montaj ve temel Switch konfigürasyonları üzerine homelab ortamımda pratik yapıyorum.
 
 ---
 
@@ -20,7 +18,7 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 **Güçlü olduğum taraflar:**
 - Yapısal kablolama, sonlandırma, fiziksel montaj.
 - VLAN ve Trunking -- homelab ortamında kurulumlar yaptım.
-- Switch konfigürasyonları (Genellikle GUI ile)
+- Switch konfigürasyonları.
 
 **Aşina olduğum taraflar:**
 - Linux kullanımı.
@@ -29,14 +27,14 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 
 **Öğrenme aşamasında taraflar:**
 - Docker yönetimi.
-- Firewall yönetimi.
+- İleri seviye firewall yönetimi.
 - Switch konfigürasyonlarının ileri seviyesi.
 
 ---
 
 ### Aktif Uğraşlarım
 
-🏠 **Homelab** — Ağ altyapısı %90 tamamlandı. AP ve firewall cihazı eksik. NAS kurulumu (TrueNAS) bütçe hazır olunca başlayacak.
+🏠 **Homelab** — Gateway, AP, Switch ve birkaç ekstra donanım kuruldu ama server kurulumu bütçe hazır olunca başlayacak.
 
 🐧 **Linux** — Ana makinemde CachyOS kullanmaktayım, dualboot ile kırılmış Win11 bulunmakta (Bir takım online oyunlar için)
 
@@ -54,13 +52,12 @@ Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir teknikerim.
 
 🖨️ **3D Baskı** — Hobi olarak teknik parça üretimi. Ekipman yenilenince devam edecek.
 
-🕹️ **Oyun Geliştirme** — 1 yıl Unity stajı + hobi olarak UE5. Mesleki olarak bıraktım, dönersem hobi olarak.
+🕹️ **Oyun Geliştirme** — 1 yıl Unity stajı + hobi olarak UE5 ile ilgiledim.
 
 ---
 
 ### Eğitim
 
-🎓 **Coğrafi Bilgi Sistemleri** — Anadolu Üniversitesi *(2024 – devam ediyor)*
 🎓 **Bilişim Güvenliği Teknolojisi** — Ostim Teknik Üniversitesi *(2022 – 2024)*
 
 ---

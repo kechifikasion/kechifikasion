@@ -7,7 +7,7 @@
 ---
 
 ### About Me
-Junior IT professional with a background in Information Security Technology, currently focused on networking. My hands-on experience started in game development, but I've since shifted toward network infrastructure. I practice cabling, termination, mounting, and basic switch configuration in my homelab environment.
+Background in Information Security Technology, currently developing myself as a junior in the IT field with a focus on networking. My hands-on experience started in game development, but I've since shifted toward network infrastructure. I practice cabling, termination, mounting, and basic switch configuration in my homelab environment.
 
 ---
 

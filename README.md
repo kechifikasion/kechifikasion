@@ -7,7 +7,7 @@
 ---
 
 ### About Me
-IT professional with a background in Information Security Technology, focused on networking. My hands-on experience started in game development, but I moved professionally into network infrastructure. I practice cabling, termination, mounting, and basic switch configuration in my homelab environment.
+Junior IT professional with a background in Information Security Technology, currently focused on networking. My hands-on experience started in game development, but I've since shifted toward network infrastructure. I practice cabling, termination, mounting, and basic switch configuration in my homelab environment.
 
 ---
 
@@ -32,13 +32,13 @@ IT professional with a background in Information Security Technology, focused on
 
 ### Current Focus
 🏠 **Homelab** — Gateway, AP, switch, and a few extra devices are set up; server deployment is pending budget (currently using the gateway's built-in firewall).
-🐧 **Linux** — Running CachyOS as my main OS, dual-booted with a cracked copy of Win11 (for a few online games).
+🐧 **Linux** — Running CachyOS as my main OS, dual-booted with Win11 set up via WinUtil (for a few online games).
 🌐 **VPS** — Running n8n and a Discord bot on a VPS; planning to launch a 100+ mod Minecraft server soon.
 
 ---
 
 ### Hobbies & Interests
-✈️ **Aviation & UAV** — Hold a UAV-1 commercial pilot license, follow the aviation field closely.
+✈️ **Aviation & UAV** — Hold an İHA-1 (ICAO-approved commercial UAV pilot license, issued in Turkey), follow the aviation field closely.
 🛡️ **Defense Industry** — Following unmanned vehicle platforms and the weapons sector with interest.
 🎮 **Gaming & Hardware** — PC building, PC maintenance, and video games.
 🖨️ **3D Printing** — Hobby technical part production. On hold until equipment is upgraded.

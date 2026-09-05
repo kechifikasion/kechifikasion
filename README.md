@@ -1,69 +1,58 @@
 <h1 align="center">Ahmet Selim Ünsel</h1>
-<h3 align="center">Ağ Sistemleri · Ankara</h3>
-
+<h3 align="center">Network Systems · Ankara, Turkey</h3>
 <p align="center">
-  <a href="https://tree.aselimunsel.com"><img src="https://img.shields.io/badge/Bağlantılar-aselimunsel-1a1a2e?style=flat-square&logo=linktree&logoColor=white" /></a>
+  <a href="https://tree.aselimunsel.com"><img src="https://img.shields.io/badge/Links-aselimunsel-1a1a2e?style=flat-square&logo=linktree&logoColor=white" /></a>
 </p>
 
 ---
 
-### Hakkımda
-
-Bilişim Güvenliği Teknolojisi mezunu, ağ alanına yönelmiş bir IT elemanıyım. Saha deneyimim oyun geliştirme alanında başladı ancak mesleki olarak ağ altyapılarına yöneldim. Kablolama, sonlandırma, montaj ve temel Switch konfigürasyonları üzerine homelab ortamımda pratik yapıyorum.
+### About Me
+IT professional with a background in Information Security Technology, focused on networking. My hands-on experience started in game development, but I moved professionally into network infrastructure. I practice cabling, termination, mounting, and basic switch configuration in my homelab environment.
 
 ---
 
-### Deneyimler
+### Experience
 
-**Güçlü olduğum taraflar:**
-- Yapısal kablolama, sonlandırma, fiziksel montaj.
-- VLAN ve Trunking -- homelab ortamında kurulumlar yaptım.
-- Switch konfigürasyonları.
+**Strengths:**
+- Structured cabling, termination, physical mounting.
+- VLAN and trunking — hands-on setups in a homelab environment.
+- Switch configuration.
 
-**Aşina olduğum taraflar:**
-- Linux kullanımı.
-- n8n ile otomasyonlar.
+**Familiar with:**
+- Linux usage.
+- Automation with n8n.
 - Adobe Illustrator · Photoshop · Premiere Pro.
 
-**Öğrenme aşamasında taraflar:**
-- Docker yönetimi.
-- İleri seviye firewall yönetimi.
-- Switch konfigürasyonlarının ileri seviyesi.
+**Currently learning:**
+- Docker management.
+- Advanced firewall management.
+- Advanced switch configuration.
 
 ---
 
-### Aktif Uğraşlarım
-
-🏠 **Homelab** — Gateway, AP, Switch ve birkaç ekstra donanım kuruldu ama server kurulumu bütçe hazır olunca başlayacak (Gateway içerisinde olan firewall'ı kullanıyorum)
-
-🐧 **Linux** — Ana makinemde CachyOS kullanmaktayım, dualboot ile kırılmış Win11 bulunmakta (Bir takım online oyunlar için)
-
-🌐 **VPS** — N8N ve Discord bot için VPS kullanıyorum, yakın zamanda 100+ modlu Minecraft server'ı açmak gibi bir düşüncem var.
+### Current Focus
+🏠 **Homelab** — Gateway, AP, switch, and a few extra devices are set up; server deployment is pending budget (currently using the gateway's built-in firewall).
+🐧 **Linux** — Running CachyOS as my main OS, dual-booted with a cracked copy of Win11 (for a few online games).
+🌐 **VPS** — Running n8n and a Discord bot on a VPS; planning to launch a 100+ mod Minecraft server soon.
 
 ---
 
-### Hobiler & İlgi Alanları
-
-✈️ **Havacılık & İHA** — İHA-1 ticari pilot ehliyetim var, havacılık alanını genel olarak takip ediyorum.
-
-🛡️ **Savunma Sanayii** — İnsansız araç platformları ve Silah sektörünü ilgiyle izliyorum.
-
-🎮 **Gaming & Donanım** — PC build, PC bakımı ve video oyunları.
-
-🖨️ **3D Baskı** — Hobi olarak teknik parça üretimi. Ekipman yenilenince devam edecek.
-
-🕹️ **Oyun Geliştirme** — 1 yıl Unity stajı + hobi olarak UE5 ile ilgilendim.
+### Hobbies & Interests
+✈️ **Aviation & UAV** — Hold a UAV-1 commercial pilot license, follow the aviation field closely.
+🛡️ **Defense Industry** — Following unmanned vehicle platforms and the weapons sector with interest.
+🎮 **Gaming & Hardware** — PC building, PC maintenance, and video games.
+🖨️ **3D Printing** — Hobby technical part production. On hold until equipment is upgraded.
+🕹️ **Game Development** — 1-year Unity internship + hobbyist experience with UE5.
 
 ---
 
-### Eğitim
-
-🎓 **Bilişim Güvenliği Teknolojisi** — Ostim Teknik Üniversitesi *(2022 – 2024)*
+### Education
+🎓 **Information Security Technology** — Ostim Technical University *(2022 – 2024)*
 
 ---
 
-### Projeler
-📁 **[Link-Tree](https://github.com/selimunsel/link-tree-source)** — Kişisel bağlantı sayfası · [tree.aselimunsel.com](https://tree.aselimunsel.com)
+### Projects
+📁 **[Link-Tree](https://github.com/selimunsel/link-tree-source)** — Personal link page · [tree.aselimunsel.com](https://tree.aselimunsel.com)
 
 ---
 
